@@ -1,1 +1,1 @@
-CREATE TABLE [dbo].[]
+-- SQL/other database can be set up at later stage, to read data directly into the code
